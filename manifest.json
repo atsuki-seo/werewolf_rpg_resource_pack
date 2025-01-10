@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "人狼RPG -Resource Pack-",
+        "name": "Werewolf RPG -Resource Pack-",
+        "uuid": "04107cf6-7ab9-4db2-9921-912a856cd430",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 50]
+    },
+    "modules": [
+        {
+            "description": "人狼RPG -Resource Pack-",
+            "type": "resources",
+            "uuid": "5149bdc9-1b55-4bed-bd15-5e5f0e41887a",
+            "version": [1, 0, 0]
+        }
+    ]
+}
