@@ -1,3 +1,5 @@
+<img src="https://github.com/atsuki-seo/werewolf_rpg_resource_pack/blob/master/pack_icon.png?raw=true">
+
 # Overview
 Werewolf RPG 
 
