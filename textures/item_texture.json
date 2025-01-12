@@ -1,0 +1,8 @@
+{
+    "resource_pack_name": "Werewolf RPG -Resource Pack-",
+    "texture_data": {
+        "werewolf-rpg:sample_item": {
+            "textures": "textures/items/sample_item"
+        }
+    }
+}
