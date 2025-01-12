@@ -3,6 +3,9 @@
     "texture_data": {
         "werewolf-rpg:sample_item": {
             "textures": "textures/items/sample_item"
+        },
+        "werewolf-rpg:wolf_axe": {
+            "textures": "textures/items/wolf_axe"
         }
     }
 }
